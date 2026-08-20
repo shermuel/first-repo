@@ -6,7 +6,3 @@ this is a save commit
 
 
 
-
-which branch is this
-hello i am updating this 123
-hello world
