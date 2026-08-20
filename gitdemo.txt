@@ -1,3 +1,19 @@
-this is a git demo on branch1 ...
- i will make my first change
-this is my second change
+this is a git demo
+
+this is the first commit
+
+this is a save commit
+
+
+
+
+which branch is this
+hello i am updating this 123
+hello world
+
+
+
+
+git remote add origin https://github.com/shermuel/first-repo.git
+git branch -M master
+git push -u origin master.
